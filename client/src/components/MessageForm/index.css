@@ -1,0 +1,10 @@
+.message-form {
+    display: flex;
+    gap: 20px;
+    margin: 20px auto;
+    width: fit-content;
+}
+
+.warning {
+    color: red;
+}
